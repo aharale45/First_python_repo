@@ -1,0 +1,3 @@
+Hi This file has been created using vim on git bash
+We can create and edit file using vim editor.
+this LINE HAS BEEN added later
